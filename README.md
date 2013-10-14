@@ -1,4 +1,1 @@
-pullreq
-=======
-
-プルリクエスト練習用レポジトリ
+# Hello, Pull Request
